@@ -1,6 +1,6 @@
 # The Effects of Data Imputation on Covariance and Inverse Covariance Matrix Estimation
 
-This repo contains scripts to reproduce the experiment results in the paper:
+This repository contains scripts to reproduce the experiment results in the paper:
 
 "The Effects of Data Imputation on Covariance and Inverse Covariance Matrix Estimation",
 published in IEEE Access
