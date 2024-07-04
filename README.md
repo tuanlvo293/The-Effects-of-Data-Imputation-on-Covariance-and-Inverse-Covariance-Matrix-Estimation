@@ -35,8 +35,6 @@ author={Vo, Tuan L and Do, Quan Huu and Nguyen, Thu and Nguyen, Binh T},
 
 journal={Multimedia Tools and Applications},
 
-pages={1--14},
-
 year={2024},
 
 publisher={IEEE}
