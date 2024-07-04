@@ -16,9 +16,9 @@ pip install MissForest
 The four datasets we use are from "http://archive.ics.uci.edu/ml/machine-learning-databases/" and are automatically collected in the code.
 
 # Our results
-We visualize some results of the comparison in ...
+We visualize some results of the comparison in Figure/Figures.ipynb
 
-We also experiment to verify the main theorem in ...
+We also experiment to verify the main theorem in Figure/Graph_Verify_Theorem_3.ipynb
 
 # Usage
 The notebooks are created by Google's Colaboratory and can be run online with Colab
