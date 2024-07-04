@@ -27,11 +27,11 @@ The used dataset of each notebook is described in its title.
 ## References and contact
 We recommend you cite our following paper when using these codes for further investigation:
 ```bash
-@article{tuan2024effect,
+@article{vo2024effects,
 
 title={The Effects of Data Imputation on Covariance and Inverse Covariance Matrix Estimation},
 
-author={Quach, Boi M and Dinh, V Cuong and Pham, Nhung and Huynh, Dang and Nguyen, Binh T},
+author={Vo, Tuan L and Do, Quan Huu and Nguyen, Thu and Nguyen, Binh T},
 
 journal={Multimedia Tools and Applications},
 
