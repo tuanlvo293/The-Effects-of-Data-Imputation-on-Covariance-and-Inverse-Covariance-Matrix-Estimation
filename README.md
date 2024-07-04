@@ -8,7 +8,9 @@ published in IEEE Access
 ## Libraries
 Install required Python packages:
 ```bash
-pip3 install -r requirements.txt
+pip install fancyimpute
+pip install DistributedMissForest
+pip install MissForest
 ```
 # Dataset
 The four datasets we use are from "http://archive.ics.uci.edu/ml/machine-learning-databases/" and are automatically collected in the code.
