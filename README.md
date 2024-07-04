@@ -29,4 +29,4 @@ We recommend you cite our following paper when using these codes for further inv
 ```bash
 
 ```
-You can send additional requests directly to the corresponding authors: Thu Nguyen (thu.nguyen@louisiana.edu) and Binh T. Nguyen (ngtbinh@hcmus.edu.vn) for appropriate permission.
+You can send additional requests directly to the corresponding authors: Thu Nguyen (thu@simula.no) and Binh T. Nguyen (ngtbinh@hcmus.edu.vn) for appropriate permission.
