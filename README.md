@@ -18,7 +18,7 @@ The four datasets we use are from "http://archive.ics.uci.edu/ml/machine-learnin
 # Our results
 We visualize some results of the comparison in Figure/Figures.ipynb
 
-We also experiment to verify the main theorem in Figure/Graph_Verify_Theorem_3.ipynb
+We also experiment to verify the main theorem in Figure/The figure for verifying the main theorem.ipynb
 
 # Usage
 The notebooks are created by Google's Colaboratory and can be run online with Colab
