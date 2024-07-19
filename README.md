@@ -28,17 +28,11 @@ The dataset used for each notebook is described in its title.
 We recommend you cite our following paper when using these codes for further investigation:
 ```bash
 @article{vo2024effects,
-
-title={The Effects of Data Imputation on Covariance and Inverse Covariance Matrix Estimation},
-
-author={Vo, Tuan L and Do, Quan Huu and Nguyen, Thu and Nguyen, Binh T},
-
-journal={IEEE Access},
-
-year={2024},
-
-publisher={IEEE}
-
+  title={The Effects of Data Imputation on Covariance and Inverse Covariance Matrix Estimation},
+  author={Vo, Tuan L and Do, Quan Huu and Nguyen, Thu and Halvorsen, P{\aa}l and Riegler, Michael A and Nguyen, Binh T},
+  journal={IEEE Access},
+  year={2024},
+  publisher={IEEE}
 }
 ```
 You can send additional requests directly to the corresponding authors: Binh T. Nguyen (ngtbinh@hcmus.edu.vn) and Thu Nguyen (thu@simula.no) for appropriate permission.
